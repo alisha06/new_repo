@@ -2,8 +2,6 @@ package pkj_new;
 
 import java.util.Scanner;
 
-import pkg5.SwapV;
-
 public class Swap {
 public void swap (int a, int b)
 	
